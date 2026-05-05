@@ -58,7 +58,7 @@ The system is implemented using Arduino IDE.
 
 Main file:
 
-src/location_tracking.ino
+![Source Code](src/location_tracking.ino)
 
 Libraries used:
 
