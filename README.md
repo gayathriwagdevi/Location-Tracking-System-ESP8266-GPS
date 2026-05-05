@@ -123,7 +123,7 @@ Libraries used:
 
 ## Project Report
 
-report/Location_Tracking_System_Report.pdf
+![Report](report/Location_Tracking_System_Report.pdf) 
 
 ---
 
